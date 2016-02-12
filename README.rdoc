@@ -1,28 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic Rails App for tracking items on a to-do list. 
 
-Things you may want to cover:
+written by Robert Anderson in Rails v4.2.5.1 for the Wyncode Bootcamp Cohort 4 FLL
 
-* Ruby version
+* Ruby version - 2.2.4p230
 
-* System dependencies
+* System dependencies - Ruby, Rails and Bundler. See Gemfile for additional information.
 
-* Configuration
+* Database - SQLite
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
